@@ -1,0 +1,9 @@
+Column Name,Description
+InvoiceNo,Unique invoice number of transaction
+StockCode,Unique code of product
+Description,Product name
+Quantity,The quantity of each product per transaction
+InvoiceDate,The day and time when  transaction was generated
+UnitPrice,Product price per unit in sterling
+CustomerID,Unique Id of customer
+Country,Name of the country where each customer resides
