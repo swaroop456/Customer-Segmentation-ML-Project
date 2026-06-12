@@ -16,7 +16,7 @@ enabling the business to design targeted marketing campaigns for each group.
 
 ## 📊 Dataset
 
-- **Source:** Online Retail Dataset (UCI Machine Learning Repository) - [Online_Retai_Dataset](https://drive.google.com/file/d/1XrCnmAAvT6D0TrtXacDbykUpwLAlUC03/view?usp=drive_link)
+- **Source:** Online Retail Dataset (UCI Machine Learning Repository) - [Online_Retail_Dataset](https://drive.google.com/file/d/1XrCnmAAvT6D0TrtXacDbykUpwLAlUC03/view?usp=drive_link)
 - **Size:** ~541,909 transaction records
 - **Period:** December 2010 – December 2011
 - **Features:** InvoiceNo, StockCode, Description, Quantity, InvoiceDate, 
