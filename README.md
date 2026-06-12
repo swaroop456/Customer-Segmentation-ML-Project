@@ -67,3 +67,45 @@ enabling the business to design targeted marketing campaigns for each group.
 ---
 
 ## 📂 Repository Structure
+
+Customer-Segmentation-ML-Project/
+
+├── Customer_segmentation_ML.py     # Complete Python source code
+
+├── data/
+
+│   └── data-dictionary.csv         # Dataset column descriptions
+
+├── docs/
+
+│   ├── Customer_Segmentation_Question.pdf
+
+│   └── Customer_Segmentation_ML_Project_Completion.pdf
+
+├── outputs/
+
+│   └── (Visualization screenshots)
+
+└── README.md
+
+
+---
+
+## 💡 Business Recommendations
+
+| Segment | Strategy |
+|---------|---------|
+| Premium Customers | VIP rewards, loyalty programs, early access to products |
+| Regular Customers | Upsell campaigns, engagement offers, product recommendations |
+| At-Risk Customers | Win-back emails, discount offers, re-engagement campaigns |
+
+---
+
+## 👤 Author
+
+**Swaroop Kumar Vathada**  
+Data Analyst | Power BI Developer  
+📧 swaroop.vathada@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/swaroopkumarvathada)  
+🐙 [GitHub](https://github.com/swaroop456)  
+🌐 [Portfolio](https://swaroop456.github.io/Data_Analyst_Portfolio/)
